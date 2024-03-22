@@ -8,7 +8,7 @@ I'm a Full-Stack Web Developer. I pretty much do anything from configuring deplo
 
 # My skills 💪
 
-## Hard Skills
+## Hard Skills 💬
 
 - Symfony
 - React
@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer. I pretty much do anything from configuring deplo
 - Azure
 - Storybook
 
-## Soft Skills (little bit here and there)
+## Soft Skills 💭 (little bit here and there)
 
 - VUE
 - Spring Boot
@@ -27,7 +27,7 @@ I'm a Full-Stack Web Developer. I pretty much do anything from configuring deplo
 - Livewire
 - Fillament
  
-# What other things do I like to do?
+# What other things do I like to do? 👏
 
 - (Digital) Art 🎨
 - Video Games 🎮
