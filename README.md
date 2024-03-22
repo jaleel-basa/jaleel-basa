@@ -2,16 +2,6 @@
 
 I'm Jaleel, nice too meet you!
 
-# Some facts about me 📓
-
-```
-Age: 23
-Pronouns: He/Him
-Dev for: 4 Years
-Location: Germany
-Languages: German, English
-```
-
 # What do I do? 🤔
 
 I'm a Full-Stack Web Developer. I pretty much do anything from configuring deployments to designing UIs.
